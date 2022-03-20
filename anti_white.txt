@@ -1,1 +1,1 @@
-diangezan.me
+*.diangezan.me
