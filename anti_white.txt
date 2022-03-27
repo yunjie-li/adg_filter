@@ -1,3 +1,5 @@
 *.diangezan.me
 *.bilibili.com
 web-player-tracker.biliapi.net
+ylog.huya.com
+statwup.huya.com
