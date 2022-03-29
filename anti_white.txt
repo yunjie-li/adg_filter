@@ -4,3 +4,4 @@ web-player-tracker.biliapi.net
 ylog.huya.com
 statwup.huya.com
 *.p2p.huya.com
+*.byteimg.com
