@@ -5,3 +5,5 @@ ylog.huya.com
 statwup.huya.com
 *.p2p.huya.com
 *.byteimg.com
+p6-ad-sign.byteimg.com
+dig.bdurl.net
